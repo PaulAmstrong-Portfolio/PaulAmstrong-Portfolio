@@ -38,7 +38,7 @@ An end-to-end data engineering and BI solution analyzing over 200,000 supply cha
 * **Throughput Capacity Diagnostics:** Exposed a systemic volume threshold crisis where facility experienced severe terminal delays; engineered a shift from "Live Loading" to a "Drop-and-Hook" trailing model, **cutting carrier cycle detention from 107 minutes down to 15 minutes**.
 * **Risk & Liability Mitigation:** Outlined a $2.64M geographic and temporal insurance claims exposure trend; developed a strategic blueprint for AI-telematics camera integration to proactively **mitigate high-risk, at-fault driver liabilities by up to 40%**.
 
-👉 **[Explore the SQL Database, Star Schema Architecture, and Interactive Dashboard here!]([https://github.com/YOUR_USERNAME/titan-logistics-analytics-engine](https://github.com/PaulAmstrong-Portfolio/Titan-Logistics-Analytics#titan-logistics-analytics))**
+👉 **[Explore the SQL Database, Star Schema Architecture, and Interactive Dashboard here!](https://github.com/PaulAmstrong-Portfolio/Titan-Logistics-Analytics#titan-logistics-analytics))**
 
 ---
 
