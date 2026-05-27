@@ -1,7 +1,7 @@
-# Hi there, I'm a Forward-Thinking Data Analyst Proficient in SQL, PowerBI & MsExcel with Background in Geology/Earth Science 👋
+# Hi there, Its Armstrong, I'm a Forward-Thinking Data Analyst with Academic Background in Geology/Earth Science 👋
 
 ## 🚀 About Me
-I am a results-driven Data Analyst specializing in translating massive, chaotic datasets into highly performant relational architectures and interactive executive intelligence systems. With a strong foundation in rigorous problem-solving, structural modeling, and system logic, I design data solutions that expose operational bottlenecks, protect corporate margins, and optimize supply chain networks.
+I am a results-driven Data Analyst specializing in translating massive, chaotic datasets into highly performant relational architectures and interactive executive intelligence systems. With a strong Proficiency in SQL, PowerBI & MsExcel, I design data solutions that expose operational bottlenecks, protect corporate margins, and optimize supply chain networks.
 
 * 🌍 Based in Nigeria  
 * 💼 Open to Global Remote Opportunities and Contracts
@@ -15,6 +15,11 @@ I am a results-driven Data Analyst specializing in translating massive, chaotic 
 * **Databases & Warehousing:** Microsoft SQL Server (SSMS), Relational Database Design, Schema Optimization.
 * **SQL Mastery:** CTEs, Subqueries, Surrogate/Composite Keys, Window Functions, Data Cleaning & Pipeline Patching.
 * **Architecture:** Star Schema Frameworks, Data Integrity Validation, Cross-Filter Optimization.
+
+### 📈 Advanced Data Manipulation & Modeling
+* **Microsoft Excel:** Data Cleansing & Transformation via Text Functions, Complex Logical & Advanced Aggregate Functions.
+* **Analytics & Retrieval Engine:** Advanced Multi-Criteria Lookup Functions (XLOOKUP, VLookup), Matrix Manipulation.
+* **Data Modeling:** Power Query and Power Pivot.
 
 ### 📊 Business Intelligence & Analytics
 * **Visualization Tools:** Power BI Desktop, Interactive Dashboard UI/UX Design, High-Contrast Themes.
